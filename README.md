@@ -14,7 +14,7 @@
          -  check the `Add Path to Current User`
       2. Download and install the Microsoft Visual C++ Redistributable [MSVC++ 14.40.33810.0 Download](https://aka.ms/vs/17/release/vc_redist.x64.exe)
       3. Download and install Visual Studio Community Edition to get MSVC++ build tools
-         - [Visual Studio Download](https://visualstudio.microsoft.com/zh-hans/downloads/)
+         - [Visual Studio Download](https://visualstudio.microsoft.com/ko/downloads/)
          - After installing Visual Studio Installer, download `Visual Studio Community 2022`.
          - As shown below, click the `Modify` button and find the `Desktop development with C++` option to select and download.
       4. Download and install [CUDA Toolkit 12.1](https://developer.nvidia.com/cuda-12-1-0-download-archive?target_os=Windows&target_arch=x86_64)
